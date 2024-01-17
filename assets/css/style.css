@@ -32,6 +32,12 @@ h3 {
     font-size: 15px;
 }
 
+footer{
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+}
+
 .datos {
     padding: 5px;
     border-bottom: 1px solid coral;
